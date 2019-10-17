@@ -15,7 +15,7 @@ body > * {
 }
 
 .header {
-    color: #E0E0E0;
+    color: #F0F0F0;
     height: 75vh;
     background-image: url('assets/cta-bg.jpg');
     background-color: #414b64 !important;
@@ -30,7 +30,7 @@ body > * {
 }
 
 .header img {
-    filter: invert(70%);   
+    filter: invert(90%);   
 }
 
 .header > p {
@@ -50,7 +50,7 @@ body > * {
 }
 
 .link-group > ul > li > a {
-    color: #E0E0E0;
+    color: #F0F0F0;
     font-weight: 500;
     display: grid;
     grid-template-columns: auto auto;
